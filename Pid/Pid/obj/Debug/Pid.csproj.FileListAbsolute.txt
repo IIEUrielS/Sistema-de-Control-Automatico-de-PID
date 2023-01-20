@@ -1,0 +1,10 @@
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\bin\Debug\Pid.exe.config
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\bin\Debug\Pid.exe
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\bin\Debug\Pid.pdb
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\obj\Debug\Pid.csprojAssemblyReference.cache
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\obj\Debug\Pid.Properties.Resources.resources
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\obj\Debug\Pid.csproj.GenerateResource.cache
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\obj\Debug\Pid.csproj.CoreCompileInputs.cache
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\obj\Debug\Pid.exe
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\obj\Debug\Pid.pdb
+C:\Users\titos\Documents\6 semestre\Sistemas de Control\actividad 9\Pid\Pid\obj\Debug\Pid.Diseño.resources
